@@ -1,5 +1,6 @@
 # 20161209_Philidelphia_Crime_Rates
-Orginal dataset is over 132 MB so an additonal subset of the data was uploaded.
+Orginal dataset is over 132 MB and can't be uploaded to GitHub. A subset of the data was uploaded instead.
+
 ## Overview 
 - Case study on crimes in Philidelphia from 2006 to 2015.
 - Crime rates to assist them in planning their work for 2017
