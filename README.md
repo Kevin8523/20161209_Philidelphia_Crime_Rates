@@ -18,12 +18,8 @@
 1. What questions are we trying to solve, and what type of data are we working with?
 2. Data prep   
    a. Feature engineering, what additional variables can I create with the data set?
-   
    b. Clean the data
-   
    c. Imputations: Find all missing values and replace them
-   
    d. Correct data type - Are there any Categorical variables?
-   
    e. Dummy Variables
 3. Visualize
